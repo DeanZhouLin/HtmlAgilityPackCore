@@ -8,7 +8,7 @@ namespace NWebGather.Forms
     {
 
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点。323243
         /// </summary>
         [STAThread]
         static void Main()
