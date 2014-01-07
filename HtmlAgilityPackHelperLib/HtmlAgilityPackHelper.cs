@@ -48,8 +48,6 @@ namespace HtmlAgilityPackHelperLib
                     }
                 }
             }
-            
-           
             return res;
         }
     }
