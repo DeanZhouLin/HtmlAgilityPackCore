@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPackHelperLib", "HtmlAgilityPackHelperLib\HtmlAgilityPackHelperLib.csproj", "{FB53A925-52CB-4947-97F0-A93BB2309336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPackConsoleTest", "HtmlAgilityPackConsoleTest\HtmlAgilityPackConsoleTest.csproj", "{CF7F992D-893C-4B2D-86F7-1174F2F73D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB53A925-52CB-4947-97F0-A93BB2309336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB53A925-52CB-4947-97F0-A93BB2309336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB53A925-52CB-4947-97F0-A93BB2309336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB53A925-52CB-4947-97F0-A93BB2309336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7F992D-893C-4B2D-86F7-1174F2F73D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7F992D-893C-4B2D-86F7-1174F2F73D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7F992D-893C-4B2D-86F7-1174F2F73D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7F992D-893C-4B2D-86F7-1174F2F73D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
