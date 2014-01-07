@@ -7,7 +7,7 @@ namespace NWebGather.Forms
     static class Program
     {
 
-
+          
     /// 
     /// 处理程序异常
     /// 
